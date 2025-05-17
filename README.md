@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Ciao, sono Enrico Cantile
 
-<!--
-**Cantilux/Cantilux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sviluppatore IT presso [Abalog Srl](https://www.linkedin.com/company/abalog-srl/), con sede a Pescara, Italia. Mi occupo di sviluppo software, con particolare attenzione a soluzioni per la logistica e l'automazione industriale.
 
-Here are some ideas to get you started:
+## 🧰 Competenze Tecniche
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguaggi:** PHP, JavaScript, SCSS
+- **Framework:** Laravel, Vue.js
+- **Strumenti:** Docker, Git, GitHub Actions
+- **Altro:** Progettazione di API RESTful, sviluppo di interfacce utente responsive
+
+## 📌 Progetti Pubblici in Evidenza
+
+### [Breakouts](https://github.com/Cantilux/breakouts)
+Framework SCSS/CSS modulare che offre utility per layout a tutta larghezza, breakout e griglie. Ideale per progetti che richiedono una struttura flessibile e componenti riutilizzabili.:contentReference[oaicite:10]{index=10}
+
+---
+
+> *"Costruire soluzioni semplici per problemi complessi."*
