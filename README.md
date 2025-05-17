@@ -14,6 +14,3 @@ Sviluppatore IT presso [Abalog Srl](https://www.linkedin.com/company/abalog-srl/
 ### [Breakouts](https://github.com/Cantilux/breakouts)
 Framework SCSS/CSS modulare che offre utility per layout a tutta larghezza, breakout e griglie. Ideale per progetti che richiedono una struttura flessibile e componenti riutilizzabili.:contentReference[oaicite:10]{index=10}
 
----
-
-> *"Costruire soluzioni semplici per problemi complessi."*
