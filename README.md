@@ -1,6 +1,6 @@
 # 👋 Ciao, sono Enrico Cantile
 
-Sviluppatore IT presso [Abalog Srl](https://www.linkedin.com/company/abalog-srl/), con sede a Pescara, Italia. Mi occupo di sviluppo software, con particolare attenzione a soluzioni per la logistica e l'automazione industriale.
+Sviluppatore IT presso [Abalog Srl](https://www.linkedin.com/company/abalog-srl/), con sede a Pescara Italia, dove mi occupo di sviluppo software, con particolare attenzione a soluzioni per la logistica.
 
 ## 🧰 Competenze Tecniche
 
